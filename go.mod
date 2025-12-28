@@ -1,3 +1,3 @@
-module Hello
+module goStudy
 
 go 1.25.5
