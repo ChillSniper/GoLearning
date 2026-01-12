@@ -8,6 +8,7 @@ import (
 )
 
 // 定义接收前端参数的结构体
+// json 表示接收前端传过来的数据，而 binding 表示校验标签
 type UserRequest struct {
 	Username string `json:"username" binding:"required"`
 	Password string `json:"password" binding:"required"`

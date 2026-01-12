@@ -10,9 +10,9 @@
 
 ### 2. Start the procedure
 
-1. 确保 MySQL 运行中，创建数据库 `go_login_demo`。
+1. 创建 MySQL 数据库 `go_login_demo`。
 2. 修改 `config/db.go` 中的数据库账号密码。
-3. 运行项目:
+3. 运行:
    ```bash
    go run main.go
    ```
