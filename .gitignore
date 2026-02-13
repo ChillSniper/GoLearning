@@ -1,0 +1,13 @@
+.idea
+customer-service
+*.log
+*.yaml.json
+cs_wx_balance
+.pkg/sdk/cs_wx_balance/
+.DS_Store
+.vscode
+.history
+*.json
+.docs
+.gocache
+.VSCodeCounter
