@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"goStudy/structLearning"
+	"goStudy/GolangBasics/structLearning"
 )
 
 func main() {

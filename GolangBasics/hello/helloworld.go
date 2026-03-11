@@ -1,7 +1,7 @@
 package main
 
 import (
-	"goStudy/myMath"
+	mathClass "goStudy/GolangBasics/myMath"
 
 	"fmt"
 )
